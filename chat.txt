@@ -1,0 +1,4 @@
+User: Hi, what is Python?
+AI: Python is a programming language.
+User: What can I do with it?
+AI: You can build websites, analyze data, and more.
